@@ -16,12 +16,6 @@
 
 ---
 
-## 💼 Projects
-
-- 🛡️ **AntiCheat - Cloud** — Cheat detection system using ML and Heuristics Algorithms
-
----
-
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
